@@ -1,0 +1,12 @@
+{
+  "url": "https://www.data.jma.go.jp/eqdb/data/shindo/api/",
+  "method": "POST",
+  "form": {
+    "mode": "event",
+    "id": "20001006133017"
+  },
+  "retrieved_utc": "2026-11-07T09:00:32.590655+00:00",
+  "http_status": 200,
+  "bytes": 452397,
+  "sha256": "08e0b6ee55f480120ca91724f77827fdae784a0a65187de6c0eea2b1d2a8f9c4"
+}

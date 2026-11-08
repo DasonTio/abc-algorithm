@@ -1,0 +1,5 @@
+group,c_fitted
+"Niigata dev (20, tuned on)",0.42
+"Niigata validation (13, reserved)",0.66
+"Kyushu (17, session 4)",0.35
+"Kinki–Chūgoku (5, session 5)",0.25

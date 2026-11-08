@@ -1,0 +1,23 @@
+{
+  "SN": 10,
+  "limit": 45,
+  "rule": "lowest mean over dev events of median final J (ties <1%: smaller SN)",
+  "table": [
+    {
+      "method": "ABC SN=10 limit=45",
+      "mean_of_event_median_J": 0.015387341422286862
+    },
+    {
+      "method": "ABC SN=10 limit=15",
+      "mean_of_event_median_J": 0.0154053850693249
+    },
+    {
+      "method": "ABC SN=30 limit=45",
+      "mean_of_event_median_J": 0.015482204493147397
+    },
+    {
+      "method": "ABC SN=30 limit=15",
+      "mean_of_event_median_J": 0.015553531486970118
+    }
+  ]
+}

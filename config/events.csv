@@ -1,0 +1,73 @@
+event_id,origin_time_jst,region_ja,lat,lon,depth_km,mag_jma,max_intensity,role,reason,region
+20260418132005,2026/04/18 13:20:05.4,長野県北部,36.58,137.85,8.0,5.0,震度５強,dev,"development: Chuetsu 2004-05 sequence, northern Nagano, Sado, Tochigi",niigata
+20240603063140,2024/06/03 06:31:40.3,石川県能登地方,37.4667,137.302,14.0,6.0,震度５強,validation,"reserved: Chuetsu-oki 2007 / Noto 2007 / Noto 2020-2024 regions, unseen during development",niigata
+20240106232023,2024/01/06 23:20:23.0,能登半島沖,37.1717,136.645,5.0,4.3,震度６弱,exclude,only 1 station(s) with intensity 4+; need at least 8 (2 x 4 unknowns),niigata
+20240106052651,2024/01/06 05:26:51.6,石川県能登地方,37.2167,136.832,12.0,5.4,震度５強,validation,"reserved: Chuetsu-oki 2007 / Noto 2007 / Noto 2020-2024 regions, unseen during development",niigata
+20240103105435,2024/01/03 10:54:35.0,石川県能登地方,37.3733,136.872,13.0,5.6,震度５強,exclude,only 6 station(s) with intensity 4+; need at least 8 (2 x 4 unknowns),niigata
+20240103022148,2024/01/03 02:21:48.0,石川県能登地方,37.4817,137.303,12.0,4.9,震度５強,exclude,only 3 station(s) with intensity 4+; need at least 8 (2 x 4 unknowns),niigata
+20240102171340,2024/01/02 17:13:40.8,能登半島沖,37.1383,136.633,6.0,4.6,震度５強,exclude,only 2 station(s) with intensity 4+; need at least 8 (2 x 4 unknowns),niigata
+20240101180818,2024/01/01 18:08:18.4,能登半島沖,37.5783,137.382,14.0,5.8,震度５強,validation,"reserved: Chuetsu-oki 2007 / Noto 2007 / Noto 2020-2024 regions, unseen during development",niigata
+20240101165648,2024/01/01 16:56:48.7,石川県能登地方,37.2617,136.857,14.0,5.8,震度５強,validation,"reserved: Chuetsu-oki 2007 / Noto 2007 / Noto 2020-2024 regions, unseen during development",niigata
+20240101161842,2024/01/01 16:18:42.6,石川県能登地方,37.1983,136.818,11.0,6.1,震度５強,validation,"reserved: Chuetsu-oki 2007 / Noto 2007 / Noto 2020-2024 regions, unseen during development",niigata
+20240101161230,2024/01/01 16:12:30.6,能登半島沖,37.7367,137.4,8.0,5.9,震度６弱,validation,"reserved: Chuetsu-oki 2007 / Noto 2007 / Noto 2020-2024 regions, unseen during development",niigata
+20240101161022,2024/01/01 16:10:22.5,石川県能登地方,37.495,137.27,16.0,7.6,震度７,stress_test,M7.6 with a ~150 km fault: point-source assumption expected to fail; reported separately,niigata
+20240101160606,2024/01/01 16:06:06.1,石川県能登地方,37.51,137.245,12.0,5.5,震度５強,exclude,only 6 station(s) with intensity 4+; need at least 8 (2 x 4 unknowns),niigata
+20230505215804,2023/05/05 21:58:04.1,能登半島沖,37.525,137.235,14.0,5.9,震度５強,validation,"reserved: Chuetsu-oki 2007 / Noto 2007 / Noto 2020-2024 regions, unseen during development",niigata
+20230505144204,2023/05/05 14:42:04.1,能登半島沖,37.5383,137.303,12.0,6.5,震度６強,validation,"reserved: Chuetsu-oki 2007 / Noto 2007 / Noto 2020-2024 regions, unseen during development",niigata
+20220620103134,2022/06/20 10:31:34.4,石川県能登地方,37.5217,137.322,14.0,5.0,震度５強,exclude,only 4 station(s) with intensity 4+; need at least 8 (2 x 4 unknowns),niigata
+20220619150807,2022/06/19 15:08:07.5,石川県能登地方,37.515,137.275,13.0,5.4,震度６弱,validation,"reserved: Chuetsu-oki 2007 / Noto 2007 / Noto 2020-2024 regions, unseen during development",niigata
+20200313021846,2020/03/13 02:18:46.7,石川県能登地方,37.2783,136.823,12.0,5.5,震度５強,validation,"reserved: Chuetsu-oki 2007 / Noto 2007 / Noto 2020-2024 regions, unseen during development",niigata
+20180525211342,2018/05/25 21:13:42.2,長野県北部,36.94,138.588,6.0,5.2,震度５強,exclude,only 5 station(s) with intensity 4+; need at least 8 (2 x 4 unknowns),niigata
+20141122220817,2014/11/22 22:08:17.9,長野県北部,36.6917,137.89,5.0,6.7,震度６弱,dev,"development: Chuetsu 2004-05 sequence, northern Nagano, Sado, Tochigi",niigata
+20130225162353,2013/02/25 16:23:53.5,栃木県北部,36.8733,139.412,3.0,6.3,震度５強,dev,"development: Chuetsu 2004-05 sequence, northern Nagano, Sado, Tochigi",niigata
+20120208210137,2012/02/08 21:01:37.9,佐渡付近,37.865,138.17,14.0,5.7,震度５強,dev,"development: Chuetsu 2004-05 sequence, northern Nagano, Sado, Tochigi",niigata
+20110602113348,2011/06/02 11:33:48.0,新潟県中越地方,37.0167,138.705,6.0,4.7,震度５強,exclude,only 3 station(s) with intensity 4+; need at least 8 (2 x 4 unknowns),niigata
+20110312054219,2011/03/12 05:42:19.8,長野県北部,36.9717,138.59,4.0,5.3,震度６弱,exclude,only 2 station(s) with intensity 4+; need at least 8 (2 x 4 unknowns),niigata
+20110312043155,2011/03/12 04:31:55.6,長野県北部,36.9483,138.572,1.0,5.9,震度６弱,dev,"development: Chuetsu 2004-05 sequence, northern Nagano, Sado, Tochigi",niigata
+20110312035915,2011/03/12 03:59:15.6,長野県北部,36.985,138.597,8.0,6.7,震度６強,dev,"development: Chuetsu 2004-05 sequence, northern Nagano, Sado, Tochigi",niigata
+20070716153740,2007/07/16 15:37:40.4,新潟県上中越沖,37.5033,138.643,23.0,5.8,震度６弱,validation,"reserved: Chuetsu-oki 2007 / Noto 2007 / Noto 2020-2024 regions, unseen during development",niigata
+20070716101322,2007/07/16 10:13:22.5,新潟県上中越沖,37.5567,138.608,17.0,6.8,震度６強,validation,"reserved: Chuetsu-oki 2007 / Noto 2007 / Noto 2020-2024 regions, unseen during development",niigata
+20070325094157,2007/03/25 09:41:57.9,能登半島沖,37.22,136.685,11.0,6.9,震度６強,validation,"reserved: Chuetsu-oki 2007 / Noto 2007 / Noto 2020-2024 regions, unseen during development",niigata
+20050821112930,2005/08/21 11:29:30.1,新潟県中越地方,37.2983,138.712,17.0,5.0,震度５強,dev,"development: Chuetsu 2004-05 sequence, northern Nagano, Sado, Tochigi",niigata
+20041108111558,2004/11/08 11:15:58.5,新潟県中越地方,37.395,139.032,0.0,5.9,震度５強,dev,"development: Chuetsu 2004-05 sequence, northern Nagano, Sado, Tochigi",niigata
+20041104085729,2004/11/04 08:57:29.5,新潟県中越地方,37.43,138.915,18.0,5.2,震度５強,dev,"development: Chuetsu 2004-05 sequence, northern Nagano, Sado, Tochigi",niigata
+20041027104050,2004/10/27 10:40:50.2,新潟県中越地方,37.2917,139.033,12.0,6.1,震度６弱,dev,"development: Chuetsu 2004-05 sequence, northern Nagano, Sado, Tochigi",niigata
+20041025060457,2004/10/25 06:04:57.5,新潟県中越地方,37.33,138.947,15.0,5.8,震度５強,dev,"development: Chuetsu 2004-05 sequence, northern Nagano, Sado, Tochigi",niigata
+20041024142134,2004/10/24 14:21:34.9,新潟県中越地方,37.245,138.825,11.0,5.0,震度５強,dev,"development: Chuetsu 2004-05 sequence, northern Nagano, Sado, Tochigi",niigata
+20041023194557,2004/10/23 19:45:57.1,新潟県中越地方,37.295,138.875,12.0,5.7,震度６弱,dev,"development: Chuetsu 2004-05 sequence, northern Nagano, Sado, Tochigi",niigata
+20041023185726,2004/10/23 18:57:26.2,新潟県中越地方,37.205,138.863,8.0,5.3,震度５強,dev,"development: Chuetsu 2004-05 sequence, northern Nagano, Sado, Tochigi",niigata
+20041023183405,2004/10/23 18:34:05.6,新潟県中越地方,37.305,138.93,14.0,6.5,震度６強,dev,"development: Chuetsu 2004-05 sequence, northern Nagano, Sado, Tochigi",niigata
+20041023181156,2004/10/23 18:11:56.7,新潟県中越地方,37.2517,138.828,12.0,6.0,震度６強,dev,"development: Chuetsu 2004-05 sequence, northern Nagano, Sado, Tochigi",niigata
+20041023180730,2004/10/23 18:07:30.9,新潟県中越地方,37.3467,138.865,15.0,5.7,震度５強,dev,"development: Chuetsu 2004-05 sequence, northern Nagano, Sado, Tochigi",niigata
+20041023180312,2004/10/23 18:03:12.6,新潟県中越地方,37.3533,138.983,9.0,6.3,震度５強,dev,"development: Chuetsu 2004-05 sequence, northern Nagano, Sado, Tochigi",niigata
+20041023175937,2004/10/23 17:59:37.6,新潟県中越地方,37.3117,138.855,16.0,5.3,震度５強,dev,"development: Chuetsu 2004-05 sequence, northern Nagano, Sado, Tochigi",niigata
+20041023175600,2004/10/23 17:56:00.3,新潟県中越地方,37.2917,138.867,13.0,6.8,震度７,dev,"development: Chuetsu 2004-05 sequence, northern Nagano, Sado, Tochigi",niigata
+20260728162715,2026/07/28 16:27:15.2,熊本県熊本地方,32.625,130.678,16.0,7.1,震度７,transfer_stress,"Mj 7.1 >= 7.0: long rupture, point source expected to fail; reported separately",kyushu
+20251125180116,2025/11/25 18:01:16.5,熊本県阿蘇地方,32.9967,131.107,9.0,5.8,震度５強,transfer_kyushu,"transfer test (Kyushu), session 2; frozen method, nothing re-tuned",kyushu
+20240808164255,2024/08/08 16:42:55.5,日向灘,31.7367,131.722,31.0,7.1,震度６弱,transfer_stress,"Mj 7.1 >= 7.0: long rupture, point source expected to fail; reported separately",kyushu
+20190103181027,2019/01/03 18:10:27.6,熊本県熊本地方,33.0267,130.553,10.0,5.1,震度６弱,transfer_kyushu,"transfer test (Kyushu), session 2; frozen method, nothing re-tuned",kyushu
+20170711115635,2017/07/11 11:56:35.4,鹿児島湾,31.3833,130.62,10.0,5.3,震度５強,transfer_kyushu,"transfer test (Kyushu), session 2; frozen method, nothing re-tuned",kyushu
+20160429150934,2016/04/29 15:09:34.3,大分県中部,33.2567,131.367,7.0,4.5,震度５強,exclude,fewer than 8 stations at intensity 4+ (1); same rule as session 1,kyushu
+20160419175213,2016/04/19 17:52:13.6,熊本県熊本地方,32.535,130.635,10.0,5.5,震度５強,transfer_kyushu,"transfer test (Kyushu), session 2; frozen method, nothing re-tuned",kyushu
+20160418204157,2016/04/18 20:41:57.9,熊本県阿蘇地方,33.0017,131.198,9.0,5.8,震度５強,transfer_kyushu,"transfer test (Kyushu), session 2; frozen method, nothing re-tuned",kyushu
+20160416094832,2016/04/16 09:48:32.6,熊本県熊本地方,32.8467,130.835,16.0,5.4,震度６弱,transfer_kyushu,"transfer test (Kyushu), session 2; frozen method, nothing re-tuned",kyushu
+20160416035553,2016/04/16 03:55:53.0,熊本県阿蘇地方,33.025,131.19,11.0,5.8,震度６強,transfer_kyushu,"transfer test (Kyushu), session 2; frozen method, nothing re-tuned",kyushu
+20160416030310,2016/04/16 03:03:10.7,熊本県阿蘇地方,32.9633,131.087,7.0,5.9,震度５強,transfer_kyushu,"transfer test (Kyushu), session 2; frozen method, nothing re-tuned",kyushu
+20160416014555,2016/04/16 01:45:55.4,熊本県熊本地方,32.8617,130.898,11.0,5.9,震度６弱,transfer_kyushu,"transfer test (Kyushu), session 2; frozen method, nothing re-tuned",kyushu
+20160416012505,2016/04/16 01:25:05.4,熊本県熊本地方,32.7533,130.762,12.0,7.3,震度７,transfer_stress,"Mj 7.3 >= 7.0: long rupture, point source expected to fail; reported separately",kyushu
+20160415000621,2016/04/15 00:06:21.3,熊本県熊本地方,32.695,130.752,11.0,5.0,震度５強,transfer_kyushu,"transfer test (Kyushu), session 2; frozen method, nothing re-tuned",kyushu
+20160415000346,2016/04/15 00:03:46.4,熊本県熊本地方,32.7,130.777,7.0,6.4,震度６強,transfer_kyushu,"transfer test (Kyushu), session 2; frozen method, nothing re-tuned",kyushu
+20160414220735,2016/04/14 22:07:35.2,熊本県熊本地方,32.775,130.848,8.0,5.8,震度６弱,transfer_kyushu,"transfer test (Kyushu), session 2; frozen method, nothing re-tuned",kyushu
+20160414212634,2016/04/14 21:26:34.4,熊本県熊本地方,32.7417,130.808,11.0,6.5,震度７,transfer_kyushu,"transfer test (Kyushu), session 2; frozen method, nothing re-tuned",kyushu
+20111005233327,2011/10/05 23:33:27.5,熊本県熊本地方,32.9133,130.85,10.0,4.5,震度５強,transfer_kyushu,"transfer test (Kyushu), session 2; frozen method, nothing re-tuned",kyushu
+20050420061126,2005/04/20 06:11:26.8,福岡県北西沖,33.6767,130.287,14.0,5.8,震度５強,transfer_kyushu,"transfer test (Kyushu), session 2; frozen method, nothing re-tuned",kyushu
+20050320105340,2005/03/20 10:53:40.3,福岡県北西沖,33.7383,130.175,9.0,7.0,震度６弱,transfer_stress,"Mj 7.0 >= 7.0: long rupture, point source expected to fail; reported separately",kyushu
+19970513143827,1997/05/13 14:38:27.5,鹿児島県薩摩地方,31.9483,130.302,9.0,6.4,震度６弱,transfer_kyushu,"transfer test (Kyushu), session 2; frozen method, nothing re-tuned",kyushu
+19970403043323,1997/04/03 04:33:23.3,鹿児島県薩摩地方,31.97,130.322,15.0,5.7,震度５強,exclude,fewer than 8 stations at intensity 4+ (5); same rule as session 1,kyushu
+19970326173147,1997/03/26 17:31:47.9,鹿児島県薩摩地方,31.9717,130.358,12.0,6.6,震度５強,transfer_kyushu,"transfer test (Kyushu), session 2; frozen method, nothing re-tuned",kyushu
+20260106101848,2026/01/06 10:18:48.4,島根県東部,35.315,133.213,11.0,6.4,震度５強,transfer_kinki,"transfer test (Kinki-Chugoku), session 3; frozen method, nothing re-tuned",kinki
+20180618075834,2018/06/18 07:58:34.1,大阪府北部,34.8433,135.622,13.0,6.1,震度６弱,transfer_kinki,"transfer test (Kinki-Chugoku), session 3; frozen method, nothing re-tuned",kinki
+20180409013230,2018/04/09 01:32:30.8,島根県西部,35.1833,132.587,12.0,6.1,震度５強,transfer_kinki,"transfer test (Kinki-Chugoku), session 3; frozen method, nothing re-tuned",kinki
+20161021140722,2016/10/21 14:07:22.5,鳥取県中部,35.38,133.855,11.0,6.6,震度６弱,transfer_kinki,"transfer test (Kinki-Chugoku), session 3; frozen method, nothing re-tuned",kinki
+20130413053317,2013/04/13 05:33:17.7,淡路島付近,34.4183,134.828,15.0,6.3,震度６弱,transfer_kinki,"transfer test (Kinki-Chugoku), session 3; frozen method, nothing re-tuned",kinki
+20001006133017,2000/10/06 13:30:17.9,鳥取県西部,35.2733,133.348,9.0,7.3,震度６強,transfer_stress,"Mj 7.3 >= 7.0: long rupture, point source expected to fail; reported separately",kinki
